@@ -403,7 +403,7 @@ html,body
 }
 
   
-@media  (max-width: 840px) {
+@media  (max-width: 850px) {
     .bio{
       height: 80vh;
       display: flex;
@@ -419,7 +419,7 @@ html,body
   .image1 img{
     margin-left:20px;
     height:400px;
-   max-width:100%;
+  width:380px;
   }
   .abt h1
   {
@@ -520,7 +520,7 @@ html,body
   }
   
 }
-@media  (max-width: 840px){
+@media  (max-width: 850px){
 
 
   .edu
@@ -683,7 +683,7 @@ span
         margin-left: -20px;
     }
   }
-  @media  (max-width: 840px){
+  @media  (max-width: 850px){
 
     .Professions
     {
@@ -833,7 +833,7 @@ margin-left:20px;
    width:230px;
   }
 }
-@media  (max-width: 840px){
+@media  (max-width: 850px){
 
   .Awards
   {
@@ -1039,7 +1039,7 @@ margin-top: 40px;
     height: 300px;
       }
 }
-@media  (max-width: 840px)
+@media  (max-width: 850px)
 {
   #Books
   {
@@ -1146,7 +1146,7 @@ margin-top: 40px;
   
   
   }
-  @media  (max-width: 840px)
+  @media  (max-width: 850px)
   {
     #Death
     {
@@ -1177,9 +1177,9 @@ margin-top: 40px;
   }
 
 
- /* section Death start */
+ /* section Death end */
  
- /* section Death start */
+ /* footer start */
   footer{
   width:100%;
   height:10vh;
@@ -1216,7 +1216,7 @@ font-family:  Arial, sans-serif;
     }
 
   }
-  @media  (max-width: 840px)
+  @media  (max-width: 850px)
   {
     footer
     {
@@ -1232,7 +1232,7 @@ font-family:  Arial, sans-serif;
       text-align: center;
     }
   }
-/* section Death start */
+/* footer end*/
 
 
 
