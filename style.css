@@ -276,7 +276,7 @@ html,body
   {
     .main
     {
-      height:90vh;
+      height:100vh;
       overflow-y: hidden;
     }
     .homescreen{
@@ -407,7 +407,7 @@ html,body
   
 @media  (max-width: 840px) {
     .bio{
-      height: 70vh;
+      height: 80vh;
       display: flex;
       flex-direction: column;
     }
@@ -528,7 +528,7 @@ html,body
   .edu
   {
     
-    height: 50vh;
+    height: 70vh;
   }
   .school{
     margin-left:0;
@@ -693,7 +693,7 @@ span
 
     .Professions
     {
-     height: 70vh;
+     height: 90vh;
     }
     .pr
   {
@@ -841,7 +841,7 @@ margin-left:20px;
 
   .Awards
   {
-    height:100vh;
+    height:120vh;
   } 
   .award
   {
@@ -896,7 +896,7 @@ margin-top: 40px;
 #Books
   {
     background-color:#252729;
-    height: 90vh;
+    height: 100vh;
     
   }
   #books {
@@ -1160,7 +1160,7 @@ margin-top: 40px;
     #Death
     {
    
-    height:80vh;
+    height:100vh;
     }
     #dh1
     {
