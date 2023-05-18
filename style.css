@@ -270,7 +270,7 @@ html,body
   }
   
   
-  @media  (max-width:840px)
+  @media  (max-width:850px)
   {
     .main
     {
@@ -406,7 +406,7 @@ html,body
   
 @media  (max-width: 850px) {
     .bio{
-      height: 80vh;
+      height: 70vh;
       display: flex;
       flex-direction: column; 
         max-width:100%;
@@ -435,7 +435,8 @@ html,body
   {
     margin-left: 20px;
     font-size: 17px;
-    
+    text-align: center;
+   
   }
 }
 
