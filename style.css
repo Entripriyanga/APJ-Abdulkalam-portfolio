@@ -413,7 +413,7 @@ html,body
     }
     .abt{
       height:400px;
-      width: 400px;
+      width: 410px;
       margin-top:-40px;
       margin-left:10px;
   }
@@ -528,7 +528,7 @@ html,body
   .edu
   {
     
-    height: 70vh;
+    height: 60vh;
   }
   .school{
     margin-left:0;
@@ -693,7 +693,7 @@ span
 
     .Professions
     {
-     height: 90vh;
+     height: 80vh;
     }
     .pr
   {
@@ -716,7 +716,7 @@ span
   }
  
   figure.snip1256 p {
-    font-size: .9em;
+    font-size: .7em;
     margin: 0 0 5px;
   
     }
@@ -1026,34 +1026,28 @@ margin-top: 40px;
     {
       
       height: 180vh;
-       
-  }
+    }
   #books {
-
- 
-    display: grid;
+     display: grid;
     grid-template-columns:repeat(3,1fr);
     padding: 30px;
   }
   
   #bh1
   { margin-top: -20px;
-   
     font-size:35px;
-  
-  }
+ }
   .book{
     width: 200px;
     height: 300px;
-  
-  }
+      }
 }
 @media  (max-width: 840px)
 {
   #Books
   {
     
-    height: 120vh;
+    height: 140vh;
     
 } 
 #books {
