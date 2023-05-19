@@ -278,6 +278,11 @@ html,body
   overflow-x: hidden;
  
 }
+ .logo img
+{
+    height:73px;
+    width:200px;
+  }
     .main
     {
       height:80vh;
