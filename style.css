@@ -830,7 +830,7 @@ span
   font-size: 20px;
 }
 
-@media only screen and (max-width:956px) {
+@media (max-width:956px) {
   .Awards
   {
     height:150vh;
@@ -1063,7 +1063,7 @@ margin-top: 40px;
 } 
 #books {
 
- margin-left:20px;
+ margin-left:10x;
   display: grid;
   grid-template-columns:repeat(2,1fr);
   
