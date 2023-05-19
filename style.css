@@ -64,7 +64,7 @@ padding: 10px 20px;
   color:#e5e5e5;
    display: none; 
   z-index: 10001; 
-  margin-left: 20px;
+  margin-left: 25px;
   cursor: pointer;
 }
 /* navigation bar media query start */
@@ -1065,7 +1065,7 @@ margin-top: 40px;
  
   display: grid;
   grid-template-columns:repeat(2,1fr);
-  margin-left: 20px;
+  
 }
 
 #bh1
