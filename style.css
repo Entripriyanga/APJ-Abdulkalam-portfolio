@@ -429,9 +429,9 @@ html,body
   }
  
   .image1 img{
-    margin-left:20px;
+    margin-left:10px;
     height:400px;
-  width:380px;
+  width:350px;
   }
   .abt h1
   {
@@ -525,7 +525,7 @@ html,body
     background: #29e4eb; 
 }
 
-@media (max-width:990px) {
+@media (max-width:950px) {
 
   .school{
     margin-left:0;
@@ -1176,6 +1176,7 @@ margin-top: 40px;
     .kalamd
     {  max-width:100%;
       margin-top: 10px;
+        margin-left:10px;
     }
     .imag img{
   
