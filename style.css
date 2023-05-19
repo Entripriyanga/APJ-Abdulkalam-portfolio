@@ -75,7 +75,7 @@ padding: 10px 20px;
   }
     
 }
-@media  (max-width: 840px){
+@media  (max-width: 820px){
  
 html,body
 {
@@ -404,7 +404,7 @@ html,body
 }
 
   
-@media  (max-width: 850px) {
+@media  (max-width: 820px) {
     .bio{
       height: 70vh;
       display: flex;
@@ -523,7 +523,7 @@ html,body
   }
   
 }
-@media  (max-width: 850px){
+@media  (max-width: 820px){
 
 
   .edu
@@ -672,7 +672,7 @@ span
     color: #29e4eb;
   } 
 
-  @media  (max-width:990px) {
+  @media  (max-width:956px) {
     
    
     figure.snip1256 img 
@@ -686,7 +686,7 @@ span
         margin-left: -20px;
     }
   }
-  @media  (max-width: 850px){
+  @media  (max-width: 820px){
 
     .Professions
     {
@@ -819,7 +819,7 @@ span
   font-size: 20px;
 }
 
-@media only screen and (max-width:990px) {
+@media only screen and (max-width:956px) {
   .Awards
   {
     height:150vh;
@@ -836,7 +836,7 @@ margin-left:20px;
    width:230px;
   }
 }
-@media  (max-width: 850px){
+@media  (max-width: 820px){
 
   .Awards
   {
@@ -1118,7 +1118,7 @@ margin-top: 40px;
     text-align: center;
     margin-top: 30px;
   }
-  @media (max-width:990px) {
+  @media (max-width:956px) {
   
   
     #Death
@@ -1149,7 +1149,7 @@ margin-top: 40px;
   
   
   }
-  @media  (max-width: 850px)
+  @media  (max-width: 820px)
   {
     #Death
     {
@@ -1219,7 +1219,7 @@ font-family:  Arial, sans-serif;
     }
 
   }
-  @media  (max-width: 840px)
+  @media  (max-width: 820px)
   {
     footer
     {
