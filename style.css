@@ -64,7 +64,7 @@ padding: 10px 20px;
   color:#e5e5e5;
    display: none; 
   z-index: 10001; 
-  margin-left: 25px;
+  margin-left: 20px;
   cursor: pointer;
 }
 /* navigation bar media query start */
@@ -281,7 +281,7 @@ html,body
  .logo img
 {
     height:73px;
-    width:200px;
+    width:240px;
   }
     .main
     {
@@ -444,7 +444,7 @@ html,body
   .abt p
   {
     margin-left: 20px;
-    font-size: 17px;
+    font-size: 16px;
     text-align: center;
    
   }
@@ -1030,7 +1030,7 @@ margin-top: 40px;
   #journey::after {
     content: 'Turning Points'
   }
-  @media (max-width:990px) {
+  @media (max-width:950px) {
     
     #Books
     {
@@ -1052,7 +1052,7 @@ margin-top: 40px;
     height: 300px;
       }
 }
-@media  (max-width: 840px)
+@media  (max-width: 820px)
 {
   #Books
   {
@@ -1181,7 +1181,7 @@ margin-top: 40px;
   
       
       height:400px;
-     
+     width:380;
     }
 
     .parag  {
@@ -1222,7 +1222,7 @@ font-family: bold;
 font-size: medium;
 font-family:  Arial, sans-serif;
   }
-  @media only screen and (max-width:990px) {
+  @media only screen and (max-width:950px) {
     .social img{
 
       width: 70px;
@@ -1234,6 +1234,7 @@ font-family:  Arial, sans-serif;
     footer
     {
        max-width:100%;
+        border-top:none;
     }
     .social i{
 
